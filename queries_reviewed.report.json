@@ -1,0 +1,29 @@
+{
+  "rows_reviewed": 298,
+  "kept": 253,
+  "dropped": 45,
+  "invalid_rows_excluded": [],
+  "domain_corrections": 5,
+  "intent_corrections": 6,
+  "domain_label_accuracy_before_review": 0.98,
+  "intent_label_accuracy_before_review": 0.976,
+  "primary_total": 197,
+  "cells_short_of_quota": [
+    {
+      "cell": "health|recommendation",
+      "primary_filled": 3,
+      "needed": 4
+    },
+    {
+      "cell": "home_diy|recommendation",
+      "primary_filled": 3,
+      "needed": 4
+    },
+    {
+      "cell": "consumer_products|comparison",
+      "primary_filled": 3,
+      "needed": 4
+    }
+  ],
+  "output_sha256": "a6d846adc3855c7cfd0e596376042d64302f2927ca399dffa61e15fd94afce5e"
+}

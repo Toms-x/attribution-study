@@ -1,0 +1,254 @@
+query_id,query,domain,intent,source,role
+b667d0147382,What is the glycemic index of brown rice?,health,factual_lookup,google_paa,primary
+18a519433431,what are the most important skills needed to become a psychologist,health,factual_lookup,ms_marco,primary
+b1c802493f24,when was the department of health and human services created,health,factual_lookup,natural_questions,primary
+fd6de8c0ad5d,What are the 5 main blood tests?,health,factual_lookup,google_paa,primary
+eb59e697fe49,what is the physical therapy provider type for billing,health,factual_lookup,ms_marco,reserve
+4512546e3305,how to help underweight kids gain weight,health,how_to,ms_marco,primary
+0a9aa68dce0c,How to calm racing thoughts in ADHD?,health,how_to,google_paa,primary
+f4e7f28fff04,how do you define atrophy,health,how_to,ms_marco,primary
+37a2844173ab,How do I motivate myself to lose weight?,health,how_to,google_paa,primary
+8ff2d53dfb89,how to write a psychology research proposal,health,how_to,ms_marco,reserve
+489f9061f867,How to improve sleep health?,health,how_to,google_paa,reserve
+944bd6baecbf,"which disorder is characterized by involuntary, rapid repetitions of words or phrases?",health,comparison,ms_marco,primary
+04776ca435d8,What is the difference between vitamin D and vitamin D3?,health,comparison,google_paa,primary
+ace1204b486c,What is the difference between systolic and diastolic blood pressure?,health,comparison,google_paa,primary
+9e9de6ab1c91,difference between severe headache and migraine,health,comparison,google_autocomplete,primary
+9aa8ca7a9424,explain why sleep is important,health,explanation,google_autocomplete,primary
+0c56a2de6c33,How does a balanced diet impact mental health?,health,explanation,google_paa,primary
+8ff508a4d5f3,what does physical education mean,health,explanation,ms_marco,primary
+bf3a43033685,why rice is good for you,health,explanation,google_autocomplete,primary
+3afa9b66aa5e,why sleep is the best medicine,health,explanation,google_autocomplete,reserve
+13906344cc22,How does coffee affect cortisol levels?,health,explanation,google_paa,reserve
+ac0da848b828,how does the chinese view mental issues,health,explanation,ms_marco,reserve
+31d9b44cd621,What are some good supplements for oral health?,health,recommendation,google_paa,primary
+964133a07885,What are the top 10 health benefits of eating rice?,health,recommendation,google_paa,primary
+aae6e29ea4a4,Which of these does research show is the best study technique?,health,recommendation,google_paa,primary
+5aae9ee4a5be,when is a ucc-1 filed to give notice of a loan as opposed to a mortgage,personal_finance,factual_lookup,natural_questions,primary
+1fe8d10bfe6d,How long does it take for a refund to show up on a credit card?,personal_finance,factual_lookup,google_paa,primary
+c03cba78ae32,how long does a tax lien stay on your credit report,personal_finance,factual_lookup,ms_marco,primary
+d951612e7078,what is the term for the monetary value of goods and services,personal_finance,factual_lookup,natural_questions,primary
+ea254a66cf4c,What happens if you default on student loans?,personal_finance,factual_lookup,google_paa,reserve
+3f491587dad6,How to lower mortgage repayments?,personal_finance,how_to,google_paa,primary
+5f771ae7586d,how to print tax return online,personal_finance,how_to,ms_marco,primary
+bd8fca708232,How to get negative balance from credit card?,personal_finance,how_to,google_paa,primary
+751597f91ac3,how to be become a cpa,personal_finance,how_to,ms_marco,primary
+64d6ab2fd6a2,where and how to buy index funds,personal_finance,how_to,google_autocomplete,reserve
+e8ace5d05ac5,Is it better to have conventional or FHA or USDA?,personal_finance,comparison,google_paa,primary
+08b68e6e4d6e,tax refund vs tax deduction,personal_finance,comparison,google_autocomplete,primary
+fc602b9be0e2,What is the difference between a refund and a return?,personal_finance,comparison,google_paa,primary
+0e73e7e2173c,What is a tax refund vs. tax return?,personal_finance,comparison,google_paa,primary
+46d1a17bd1d6,why electric car insurance is expensive,personal_finance,explanation,google_autocomplete,primary
+79a7999d0968,what does cash surety mean,personal_finance,explanation,ms_marco,primary
+4e4c806cae2a,Why is my income tax refund delayed?,personal_finance,explanation,google_paa,primary
+36396d5c2fef,why did the us lend money to germany after ww1,personal_finance,explanation,natural_questions,primary
+7c5946ab9300,how does a balloon mortgage work,personal_finance,explanation,ms_marco,reserve
+1c571cbc5bea,what travel insurance is the cheapest,personal_finance,recommendation,google_autocomplete,primary
+370a907b1e43,what student loans are the best,personal_finance,recommendation,google_autocomplete,primary
+db69c9e2e1b6,Which insurance company is best for travel insurance?,personal_finance,recommendation,google_paa,primary
+8ed51c9b8e62,which trade policy worsened the global economy prior to the great depression?,personal_finance,recommendation,ms_marco,primary
+7b6392246b98,when should i buy travel insurance for my trip,personal_finance,recommendation,google_autocomplete,reserve
+87c5625e6698,which is the best mortgage comparison site,personal_finance,recommendation,google_autocomplete,reserve
+8bd8ad75e7fa,Which bank is best for a student education loan?,personal_finance,recommendation,google_paa,reserve
+4664f2db4779,top ten best paid players in the world in a week,personal_finance,recommendation,ms_marco,reserve
+529a2858b8f8,what is the point of using a virtual system,consumer_tech,factual_lookup,ms_marco,primary
+6b17355e7ae1,What are the key features of the iPhone 14?,consumer_tech,factual_lookup,google_paa,primary
+b87e0f4185a4,who is the creator of what's app,consumer_tech,factual_lookup,natural_questions,primary
+b498144b03f6,which sentences use rhetorical devices? +,consumer_tech,factual_lookup,ms_marco,primary
+ae0461ed236b,what iphone came out in 2013,consumer_tech,factual_lookup,google_autocomplete,reserve
+4fa6cc2d440a,how to record phone call in iphone 6,consumer_tech,how_to,ms_marco,primary
+e7edacd5f7d5,How do you tell if you need a modem or router?,consumer_tech,how_to,google_paa,primary
+53e8f4ab1e1c,how to get traffic info on google maps,consumer_tech,how_to,natural_questions,primary
+22839b58efe0,how to view pictures burst on iphone,consumer_tech,how_to,ms_marco,primary
+799809f09cd5,What is the difference between study methods and study skills?,consumer_tech,comparison,google_paa,primary
+f3dddbcd0b97,why samsung is better than apple,consumer_tech,comparison,ms_marco,primary
+0beb2cb8466e,what is iphone 16 vs 16 plus,consumer_tech,comparison,google_autocomplete,primary
+cc0595d07849,What is the difference between a router and a Wi-Fi router?,consumer_tech,comparison,google_paa,primary
+1324a63e6513,How does an iPhone work?,consumer_tech,explanation,google_paa,primary
+2132fd00da1d,why laptop battery indicator blinking,consumer_tech,explanation,google_autocomplete,primary
+58e057d52699,wireless phone what does eq mean,consumer_tech,explanation,ms_marco,primary
+6d12d78a57ff,how does a mouse communicate with the computer,consumer_tech,explanation,natural_questions,primary
+e07ffc00bbee,How does a smart TV pick up the internet?,consumer_tech,explanation,google_paa,reserve
+6dfed06f4a99,why is cloud storage important,consumer_tech,explanation,google_autocomplete,reserve
+1f53d3d5ade2,what wifi router is the fastest,consumer_tech,recommendation,google_autocomplete,primary
+56f52059e698,Which iPhone is the easiest to use?,consumer_tech,recommendation,google_paa,primary
+7b914f580dc2,which wifi router is best for gaming,consumer_tech,recommendation,google_autocomplete,primary
+9f424fa42a00,Which type of WiFi is best for home?,consumer_tech,recommendation,google_paa,primary
+e96592c4dc2a,what's best iphone 17,consumer_tech,recommendation,google_autocomplete,reserve
+066ddf1b325b,What is the best wireless router for home use?,consumer_tech,recommendation,google_paa,reserve
+958efc639a21,what are the first living organisms on earth,science,factual_lookup,natural_questions,primary
+65d2967ea82b,what is the correct chemical equation for conservation of matter,science,factual_lookup,ms_marco,primary
+fd2b01ccd547,What do plants breathe through?,science,factual_lookup,google_paa,primary
+da5e5da6ba12,who was the first president of indian science congress meeting held in kolkata in 1914,science,factual_lookup,natural_questions,primary
+7fc98e1e4778,How to make a word equation for photosynthesis?,science,how_to,google_paa,primary
+d23e63ea790b,how to donate your body to science uk,science,how_to,ms_marco,primary
+0c41617708b7,how to make a black hole model,science,how_to,google_autocomplete,primary
+991407ad4d0a,What are the 7 steps to earthquake safety?,science,how_to,google_paa,primary
+415bb7ea2d7c,What is the 5 difference between photosynthesis and respiration?,science,comparison,google_paa,primary
+212ec6078d43,What is the difference between DNA and a chromosome?,science,comparison,google_paa,primary
+e779b040ba7e,difference between quake and earthquake,science,comparison,google_autocomplete,primary
+d35939f23b8d,What can DNA best be compared to in a building?,science,comparison,google_paa,primary
+534ffdbc77c2,what is evolution vs natural selection,science,comparison,google_autocomplete,reserve
+ac1400ed03ca,How does the color of light affect the rate of photosynthesis?,science,explanation,google_paa,primary
+88379edd619e,what are two reasons why photosynthesis is important,science,explanation,google_autocomplete,primary
+f25088a83668,what does physical geography mean,science,explanation,ms_marco,primary
+9549876d9983,What causes earthquakes?,science,explanation,google_paa,primary
+84b9a7997ae8,why is dna an acid,science,explanation,google_autocomplete,reserve
+4e16b29d8fd8,how does carbon dioxide in the atmosphere relate to global temperatures?,science,explanation,ms_marco,reserve
+a8854ae95a21,Which course is best for the future?,science,recommendation,google_paa,primary
+edcb2ecc6c9f,What is the best DNA company to use?,science,recommendation,google_paa,primary
+1af7f2c20b6c,What are the top 5 most useful degrees?,science,recommendation,google_paa,primary
+2d91ca1a3586,What are the top 5 space movies?,science,recommendation,google_paa,primary
+5b3e6736bab2,where are the bulk of congress' powers found,law_government,factual_lookup,natural_questions,primary
+597eff5963af,What is the easiest way to get out of jury duty?,law_government,factual_lookup,google_paa,primary
+7a35aff8f005,what did the sugar act do,law_government,factual_lookup,ms_marco,primary
+4e6edd99168c,what's jury duty in usa,law_government,factual_lookup,google_autocomplete,primary
+267f59a99b12,what is the main purpose of the electronic communications privacy act (ecpa),law_government,factual_lookup,natural_questions,reserve
+13f0d548e044,What happens if you break a court order in the UK?,law_government,factual_lookup,google_paa,reserve
+75059e44351e,How to file a motion with the court without an attorney?,law_government,how_to,google_paa,primary
+93fadb81b37f,how to prepare for small claims court,law_government,how_to,google_autocomplete,primary
+e4e48210fe17,How to apply for a passport?,law_government,how_to,google_paa,primary
+eb651d5c1d1b,where and how to make a will,law_government,how_to,google_autocomplete,primary
+5b9f06958309,How do I register my copyright?,law_government,how_to,google_paa,reserve
+dfb93dbf8880,what is the difference between regular jury duty and federal jury duty,law_government,comparison,google_autocomplete,primary
+afa64969cc39,who has the power to approve or veto legislation,law_government,comparison,ms_marco,primary
+37776f6f0d6d,What's the difference between copyright and Creative Commons?,law_government,comparison,google_paa,primary
+bcd4c79570f1,who governs a homeowners' or condominium association and its restrictions,law_government,comparison,natural_questions,primary
+bb6c838873b7,what is grand jury duty vs jury duty,law_government,comparison,google_autocomplete,reserve
+3eeb07f964ac,what the difference between a legal assistant and a paralegal,law_government,comparison,ms_marco,reserve
+2c5fd48e1313,why is copyright needed,law_government,explanation,google_autocomplete,primary
+0551e215abb5,What does the 3-3-3 rule for clothes mean?,law_government,explanation,google_paa,primary
+2e651beabd60,how does patriot act violate civil liberties,law_government,explanation,ms_marco,primary
+6bad6bb6e359,what is the exclusionary rule and how does it relate to the fruit of the poisonous tree doctrine,law_government,explanation,natural_questions,primary
+05ac44707d2f,why does jury duty matter,law_government,explanation,google_autocomplete,reserve
+f1c1af2eefee,What makes someone legally a tenant?,law_government,explanation,google_paa,reserve
+935adb2b6343,which is an example of the executive branch imposing a check on the legislative power to make laws,law_government,recommendation,ms_marco,primary
+66842447ff6d,where is the best place to keep a will,law_government,recommendation,google_autocomplete,primary
+cfd1f2329278,What is the best excuse for jury duty?,law_government,recommendation,google_paa,primary
+521b9768ef46,What is the best type of will to have?,law_government,recommendation,google_paa,primary
+31cf784ef400,what to ask for on letter of rec mba,travel,factual_lookup,ms_marco,primary
+00423ee3a84e,what are the responsibilities of the transport layer in the osi model,travel,factual_lookup,natural_questions,primary
+f3b4da0e05fe,when to get a passport before traveling,travel,factual_lookup,google_autocomplete,primary
+b9a35cee6b25,What is the point of a passport card?,travel,factual_lookup,google_paa,primary
+eaa1f8f4ac20,what us cities have given up their sanctuary city status?,travel,factual_lookup,ms_marco,reserve
+5ee7a1cbf90c,where is panama canal located on the map,travel,factual_lookup,natural_questions,reserve
+b2e8efc57f11,how do i get to drangleic castle,travel,how_to,ms_marco,primary
+3b97b10be2ea,how to get passport steps,travel,how_to,google_autocomplete,primary
+e77e99a29060,How to plan a rail trip in Europe?,travel,how_to,google_paa,primary
+c4e3ad18b5e8,How should I save for travel?,travel,how_to,google_paa,primary
+9dba5b304592,how to read schengen visa,travel,how_to,google_autocomplete,reserve
+5e2c055fce40,difference between schengen visa and tourist visa,travel,comparison,google_autocomplete,primary
+a16409a86359,What is the difference between a visa and a passport?,travel,comparison,google_paa,primary
+1beeafb5c0ee,scott pilgrim vs the world what is it about,travel,comparison,natural_questions,primary
+2e06115050e7,is it better to travel europe by train or plane,travel,comparison,google_autocomplete,primary
+05a47e37f0c5,what is carry on bag vs personal item,travel,comparison,google_autocomplete,reserve
+d8768a586abf,what is passport vs visa,travel,comparison,google_autocomplete,reserve
+0fce6ebde99e,Why is train travel not popular in the US?,travel,explanation,google_paa,primary
+bd229054cde6,why is passport important,travel,explanation,google_autocomplete,primary
+daff6ffed27c,Why did Trump cut funding for national parks?,travel,explanation,google_paa,primary
+57bd1638d755,What does Schengen mean?,travel,explanation,google_paa,primary
+523ea4890c4c,Why is train travel so popular in Europe?,travel,explanation,google_paa,reserve
+12a754e42c75,Which European countries are best to travel to by train?,travel,recommendation,google_paa,primary
+8dcaa9c71167,the best national parks to visit,travel,recommendation,google_autocomplete,primary
+1d52d7291563,What are the top 10 reasons why people love to travel?,travel,recommendation,google_paa,primary
+10e0d446c4b7,What is the best way to travel around Europe by train?,travel,recommendation,google_paa,primary
+11359af3ce6d,What is sourdough discard?,food_cooking,factual_lookup,google_paa,primary
+849b07867645,when was the first pumpkin spice latte made,food_cooking,factual_lookup,natural_questions,primary
+128e04144c14,what can i drink on medifast,food_cooking,factual_lookup,ms_marco,primary
+55a3bd8d0edf,What foods should I avoid when breaking a fast?,food_cooking,factual_lookup,google_paa,primary
+d3e950d6a24c,where does the last name baker come from,food_cooking,factual_lookup,natural_questions,reserve
+b3e5ea7b97be,how do you make gelatin set,food_cooking,how_to,ms_marco,primary
+7830cb8f9bdb,how to order a rum and coke in spanish,food_cooking,how_to,natural_questions,primary
+db21162797bf,when and how to season cast iron,food_cooking,how_to,google_autocomplete,primary
+9ceb25eb8543,How do I make a DIY rice toner?,food_cooking,how_to,google_paa,primary
+1bee47e07315,how to make durian muffin,food_cooking,how_to,ms_marco,reserve
+4aa00b8c20fb,when and how to use sourdough starter,food_cooking,how_to,google_autocomplete,reserve
+fde6db249207,Is it better to use butter or oil in a cast iron skillet?,food_cooking,comparison,google_paa,primary
+fe6b8577d751,what is the difference between goulash and stew,food_cooking,comparison,ms_marco,primary
+5e6b5ce82e4d,is sourdough better than white,food_cooking,comparison,google_autocomplete,primary
+6072a2c26494,What is the difference between sourdough and regular bread?,food_cooking,comparison,google_paa,primary
+bde731d6750a,difference between dutch apple pie and french apple pie,food_cooking,comparison,ms_marco,reserve
+31ea4b42cd0e,which is best cast iron or enamel,food_cooking,comparison,google_autocomplete,reserve
+486d550cedac,why cast iron cookware is bad,food_cooking,explanation,google_autocomplete,primary
+ca65fadd7601,why are spices used in foods in india,food_cooking,explanation,ms_marco,primary
+5ae4d6e9f6fc,How does coffee affect autophagy?,food_cooking,explanation,google_paa,primary
+2a8c042daad7,what does natural flavoring mean,food_cooking,explanation,ms_marco,primary
+8d2b8d253fe1,"What does ""meal prep"" mean?",food_cooking,explanation,google_paa,reserve
+e69b13a90111,what restaurant has the best fried chicken,food_cooking,recommendation,ms_marco,primary
+2d16654d2b53,which best bread machine,food_cooking,recommendation,google_autocomplete,primary
+aefe64c1833b,Which is the best bread to eat?,food_cooking,recommendation,google_paa,primary
+131e9209bc0f,good food source for folate,food_cooking,recommendation,ms_marco,primary
+8fd21445f4d0,what's the best meal prep company,food_cooking,recommendation,google_autocomplete,reserve
+01e025e816fc,What type of rice is the best?,food_cooking,recommendation,google_paa,reserve
+1abfe8917ae3,who won world war 2 and 1,history_education,factual_lookup,google_autocomplete,primary
+19c673750ba3,who designed the national museum of african american history and culture,history_education,factual_lookup,natural_questions,primary
+0cc222950706,What are some effective study techniques?,history_education,factual_lookup,google_paa,primary
+fb90a989133e,who is known as the jewish elvis?,history_education,factual_lookup,ms_marco,primary
+ec700717dfaf,who defeated roman empire,history_education,factual_lookup,google_autocomplete,reserve
+8ad8d0658109,which pharaoh accomplished the most when they were in power,history_education,factual_lookup,natural_questions,reserve
+02ab2eb66ce2,How to get the Coca-Cola scholarship?,history_education,how_to,google_paa,primary
+774f6aa89e83,What is a good hook for a scholarship essay?,history_education,how_to,google_paa,primary
+eb2b9a91f184,How can I focus 100% on studies?,history_education,how_to,google_paa,primary
+aafa10c8caab,how to find online degrees from leading universities,history_education,how_to,google_autocomplete,primary
+473a097d4168,world war 2 vs vietnam,history_education,comparison,google_autocomplete,primary
+6627b8fbac55,What is the difference between a grant and a scholarship?,history_education,comparison,google_paa,primary
+2963c6b951e4,What's the difference between an empire and a kingdom?,history_education,comparison,google_paa,primary
+9fa15fac3574,difference between early roman empire and late roman empire,history_education,comparison,google_autocomplete,primary
+36acdaeaf7fa,why did great britain want to colonize singapore and burma,history_education,explanation,natural_questions,primary
+64e60b649344,what caused world war 2 and why,history_education,explanation,google_autocomplete,primary
+c4d0d7d153e6,Why did Rome become an empire?,history_education,explanation,google_paa,primary
+456b76aeca26,why did the mauryan empire fall,history_education,explanation,ms_marco,primary
+919d43cef230,who came to the middle colonies and why,history_education,explanation,natural_questions,reserve
+5d885d1b8405,why is industrial revolution good,history_education,explanation,google_autocomplete,reserve
+4fae58164ef7,the best online law degree,history_education,recommendation,google_autocomplete,primary
+c32a5e5fa6a0,which explorer traveled to the carolinas and oklahoma and found the mississippi river,history_education,recommendation,natural_questions,primary
+92655e762934,What are the top 10 best movies about World War 2?,history_education,recommendation,google_paa,primary
+ff08b72f73fd,What are some of the best movies set in World War II?,history_education,recommendation,google_paa,primary
+325a30d6d526,How long does compost last if not used?,home_diy,factual_lookup,google_paa,primary
+8e16dec91315,who illuminated the painting of constitution of india,home_diy,factual_lookup,natural_questions,primary
+efc70730bfd8,what do you repair drywall with,home_diy,factual_lookup,google_autocomplete,primary
+5a0050b5bd42,what you need to get an ambulatory job in florida,home_diy,factual_lookup,ms_marco,primary
+79f57ac0fc04,What are the benefits of composting?,home_diy,factual_lookup,google_paa,reserve
+e641085627f7,who performs function of property estimation among the real estate specialists,home_diy,factual_lookup,natural_questions,reserve
+665eb7fd47df,how to repair faucet in bathtub,home_diy,how_to,google_autocomplete,primary
+8fef0eed398d,How can I clean a vacuum hose?,home_diy,how_to,google_paa,primary
+0db04a80d31a,how to remodel hardwood,home_diy,how_to,ms_marco,primary
+a6bde8cd345c,how to paint walls professionally,home_diy,how_to,google_autocomplete,primary
+d3d984a7e0b8,"How do you spell ""vacuum cleaner""?",home_diy,how_to,google_paa,reserve
+aeaedd080fd1,how to design a residential house,home_diy,how_to,ms_marco,reserve
+eee35dc49f74,what is heat pump vs boiler,home_diy,comparison,google_autocomplete,primary
+d7fa4e35689c,What is the difference between landscaping and lawncare?,home_diy,comparison,google_paa,primary
+5bf7ce4474de,What is the difference between lawn care and lawn service?,home_diy,comparison,google_paa,primary
+8d33d4339114,when to use heat pump vs emergency heat,home_diy,comparison,google_autocomplete,primary
+430f6373ddfd,What is the difference between brown and green compost?,home_diy,comparison,google_paa,reserve
+256cce62d1b3,What is compost and how does it work?,home_diy,explanation,google_paa,primary
+459567269624,why heat pump not cooling,home_diy,explanation,google_autocomplete,primary
+c357f04931e3,what does staff engineer mean,home_diy,explanation,ms_marco,primary
+316dde2df56a,Why is my faucet dripping even though the valves are closed?,home_diy,explanation,google_paa,primary
+55fbc88ee2dc,why heat pump blowing cold air,home_diy,explanation,google_autocomplete,reserve
+59e76575adcc,Why was the vacuum cleaner invented?,home_diy,explanation,google_paa,reserve
+7e44c171a744,What is the best brand for lawn care?,home_diy,recommendation,google_paa,primary
+49e8f9084a30,What is the best fertilizer for a grass lawn?,home_diy,recommendation,google_paa,primary
+715e0fd6d423,What faucets do plumbers recommend?,home_diy,recommendation,google_paa,primary
+ed516f6010aa,What brands is Gen Z obsessed with?,consumer_products,factual_lookup,google_paa,primary
+104b42f10380,where can i buy david rio chai tea,consumer_products,factual_lookup,ms_marco,primary
+de72adffbb20,where do you get the eurostar from in london,consumer_products,factual_lookup,natural_questions,primary
+f6d64f1af7c7,What are the different styles of sneakers?,consumer_products,factual_lookup,google_paa,primary
+eef8b50984a8,how can you price match online at walmart,consumer_products,how_to,ms_marco,primary
+61390506fad5,How can I buy train tickets in Europe?,consumer_products,how_to,google_paa,primary
+81de6e74c70a,how to get into a career in procurement,consumer_products,how_to,ms_marco,primary
+b696c34191a7,how to buy best running shoes,consumer_products,how_to,google_autocomplete,primary
+655b943cfb9b,How do I get merchandise?,consumer_products,how_to,google_paa,reserve
+18e5f9cbd30c,Is it better to rent or buy?,consumer_products,comparison,google_paa,primary
+4e85facd195e,Is Bose better than Beats?,consumer_products,comparison,google_paa,primary
+78df6ef6b6d4,difference between running shoes and normal shoes,consumer_products,comparison,google_autocomplete,primary
+6fcefd53cb0f,how does amazon pay you,consumer_products,explanation,ms_marco,primary
+40ef205a7bcd,Why are people getting rid of Amazon Prime?,consumer_products,explanation,google_paa,primary
+972537c33977,How does Blender make money if it's free?,consumer_products,explanation,google_paa,primary
+e9fcf6ce5c77,Why are people no longer buying memory foam?,consumer_products,explanation,google_paa,primary
+88887401f7a6,the best passport holder,consumer_products,recommendation,google_autocomplete,primary
+34be4ee51271,what best vacuum cleaner to buy,consumer_products,recommendation,google_autocomplete,primary
+cc4d4dec8e6f,What are the top selling running shoe brands?,consumer_products,recommendation,google_paa,primary
+6a21cdcab768,What are the top 3 battery brands?,consumer_products,recommendation,google_paa,primary
+c9d806d88582,the best heat pump tumble dryer,consumer_products,recommendation,google_autocomplete,reserve
+85c2110e9c54,What are the top 5 cloud storage providers?,consumer_products,recommendation,google_paa,reserve
