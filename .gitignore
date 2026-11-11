@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+kwpu/
+pool.jsonl
+labeled.jsonl
+autocomplete.csv

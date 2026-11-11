@@ -1,0 +1,260 @@
+{
+  "seed": 42,
+  "per_cell": 4,
+  "reserve": 2,
+  "domains": [
+    "health",
+    "personal_finance",
+    "consumer_tech",
+    "science",
+    "law_government",
+    "travel",
+    "food_cooking",
+    "history_education",
+    "home_diy",
+    "consumer_products"
+  ],
+  "intents": [
+    "factual_lookup",
+    "how_to",
+    "comparison",
+    "explanation",
+    "recommendation"
+  ],
+  "labeled_total": 33481,
+  "eligible_total": 10375,
+  "excluded_by_flag": {
+    "ambiguous": 711,
+    "time_sensitive": 1070,
+    "unsafe_or_sensitive": 15,
+    "navigational": 130,
+    "off_topic": 44
+  },
+  "excluded_unlabeled_or_other": 22227,
+  "selected_total": 291,
+  "selected_by_source": {
+    "google_paa": 105,
+    "ms_marco": 52,
+    "natural_questions": 27,
+    "google_autocomplete": 107
+  },
+  "cells": {
+    "health|factual_lookup": {
+      "eligible": 206,
+      "selected": 6
+    },
+    "health|how_to": {
+      "eligible": 6,
+      "selected": 6
+    },
+    "health|comparison": {
+      "eligible": 1,
+      "selected": 1
+    },
+    "health|explanation": {
+      "eligible": 19,
+      "selected": 6
+    },
+    "health|recommendation": {
+      "eligible": 23,
+      "selected": 6
+    },
+    "personal_finance|factual_lookup": {
+      "eligible": 984,
+      "selected": 6
+    },
+    "personal_finance|how_to": {
+      "eligible": 112,
+      "selected": 6
+    },
+    "personal_finance|comparison": {
+      "eligible": 46,
+      "selected": 6
+    },
+    "personal_finance|explanation": {
+      "eligible": 190,
+      "selected": 6
+    },
+    "personal_finance|recommendation": {
+      "eligible": 387,
+      "selected": 6
+    },
+    "consumer_tech|factual_lookup": {
+      "eligible": 697,
+      "selected": 6
+    },
+    "consumer_tech|how_to": {
+      "eligible": 160,
+      "selected": 6
+    },
+    "consumer_tech|comparison": {
+      "eligible": 80,
+      "selected": 6
+    },
+    "consumer_tech|explanation": {
+      "eligible": 219,
+      "selected": 6
+    },
+    "consumer_tech|recommendation": {
+      "eligible": 265,
+      "selected": 6
+    },
+    "science|factual_lookup": {
+      "eligible": 812,
+      "selected": 6
+    },
+    "science|how_to": {
+      "eligible": 37,
+      "selected": 6
+    },
+    "science|comparison": {
+      "eligible": 46,
+      "selected": 6
+    },
+    "science|explanation": {
+      "eligible": 345,
+      "selected": 6
+    },
+    "science|recommendation": {
+      "eligible": 165,
+      "selected": 6
+    },
+    "law_government|factual_lookup": {
+      "eligible": 373,
+      "selected": 6
+    },
+    "law_government|how_to": {
+      "eligible": 47,
+      "selected": 6
+    },
+    "law_government|comparison": {
+      "eligible": 19,
+      "selected": 6
+    },
+    "law_government|explanation": {
+      "eligible": 85,
+      "selected": 6
+    },
+    "law_government|recommendation": {
+      "eligible": 16,
+      "selected": 6
+    },
+    "travel|factual_lookup": {
+      "eligible": 237,
+      "selected": 6
+    },
+    "travel|how_to": {
+      "eligible": 32,
+      "selected": 6
+    },
+    "travel|comparison": {
+      "eligible": 8,
+      "selected": 6
+    },
+    "travel|explanation": {
+      "eligible": 30,
+      "selected": 6
+    },
+    "travel|recommendation": {
+      "eligible": 109,
+      "selected": 6
+    },
+    "food_cooking|factual_lookup": {
+      "eligible": 842,
+      "selected": 6
+    },
+    "food_cooking|how_to": {
+      "eligible": 195,
+      "selected": 6
+    },
+    "food_cooking|comparison": {
+      "eligible": 77,
+      "selected": 6
+    },
+    "food_cooking|explanation": {
+      "eligible": 190,
+      "selected": 6
+    },
+    "food_cooking|recommendation": {
+      "eligible": 450,
+      "selected": 6
+    },
+    "history_education|factual_lookup": {
+      "eligible": 748,
+      "selected": 6
+    },
+    "history_education|how_to": {
+      "eligible": 54,
+      "selected": 6
+    },
+    "history_education|comparison": {
+      "eligible": 16,
+      "selected": 6
+    },
+    "history_education|explanation": {
+      "eligible": 230,
+      "selected": 6
+    },
+    "history_education|recommendation": {
+      "eligible": 156,
+      "selected": 6
+    },
+    "home_diy|factual_lookup": {
+      "eligible": 688,
+      "selected": 6
+    },
+    "home_diy|how_to": {
+      "eligible": 187,
+      "selected": 6
+    },
+    "home_diy|comparison": {
+      "eligible": 67,
+      "selected": 6
+    },
+    "home_diy|explanation": {
+      "eligible": 176,
+      "selected": 6
+    },
+    "home_diy|recommendation": {
+      "eligible": 392,
+      "selected": 6
+    },
+    "consumer_products|factual_lookup": {
+      "eligible": 84,
+      "selected": 6
+    },
+    "consumer_products|how_to": {
+      "eligible": 22,
+      "selected": 6
+    },
+    "consumer_products|comparison": {
+      "eligible": 2,
+      "selected": 2
+    },
+    "consumer_products|explanation": {
+      "eligible": 9,
+      "selected": 6
+    },
+    "consumer_products|recommendation": {
+      "eligible": 34,
+      "selected": 6
+    }
+  },
+  "shortfalls": [
+    {
+      "cell": "health|comparison",
+      "needed_primary": 4,
+      "got_total": 1,
+      "eligible": 1,
+      "primary_short": true
+    },
+    {
+      "cell": "consumer_products|comparison",
+      "needed_primary": 4,
+      "got_total": 2,
+      "eligible": 2,
+      "primary_short": true
+    }
+  ],
+  "output_sha256": "c03c5c4a4f79d1b303f55cda59724409a2fb5dc8ed155e96ce818df4a3347984"
+}

@@ -1,0 +1,361 @@
+keyword,domain,pattern,seed
+sleep,health,plain,sleep
+what is sleep,health,what_is,sleep
+how to sleep,health,how_to,sleep
+why sleep,health,why,sleep
+sleep vs,health,vs,sleep
+best sleep,health,best,sleep
+back pain,health,plain,back pain
+what is back pain,health,what_is,back pain
+how to back pain,health,how_to,back pain
+why back pain,health,why,back pain
+back pain vs,health,vs,back pain
+best back pain,health,best,back pain
+vitamin D,health,plain,vitamin D
+what is vitamin D,health,what_is,vitamin D
+how to vitamin D,health,how_to,vitamin D
+why vitamin D,health,why,vitamin D
+vitamin D vs,health,vs,vitamin D
+best vitamin D,health,best,vitamin D
+blood pressure,health,plain,blood pressure
+what is blood pressure,health,what_is,blood pressure
+how to blood pressure,health,how_to,blood pressure
+why blood pressure,health,why,blood pressure
+blood pressure vs,health,vs,blood pressure
+best blood pressure,health,best,blood pressure
+intermittent fasting,health,plain,intermittent fasting
+what is intermittent fasting,health,what_is,intermittent fasting
+how to intermittent fasting,health,how_to,intermittent fasting
+why intermittent fasting,health,why,intermittent fasting
+intermittent fasting vs,health,vs,intermittent fasting
+best intermittent fasting,health,best,intermittent fasting
+migraines,health,plain,migraines
+what is migraines,health,what_is,migraines
+how to migraines,health,how_to,migraines
+why migraines,health,why,migraines
+migraines vs,health,vs,migraines
+best migraines,health,best,migraines
+credit score,personal_finance,plain,credit score
+what is credit score,personal_finance,what_is,credit score
+how to credit score,personal_finance,how_to,credit score
+why credit score,personal_finance,why,credit score
+credit score vs,personal_finance,vs,credit score
+best credit score,personal_finance,best,credit score
+mortgage,personal_finance,plain,mortgage
+what is mortgage,personal_finance,what_is,mortgage
+how to mortgage,personal_finance,how_to,mortgage
+why mortgage,personal_finance,why,mortgage
+mortgage vs,personal_finance,vs,mortgage
+best mortgage,personal_finance,best,mortgage
+index funds,personal_finance,plain,index funds
+what is index funds,personal_finance,what_is,index funds
+how to index funds,personal_finance,how_to,index funds
+why index funds,personal_finance,why,index funds
+index funds vs,personal_finance,vs,index funds
+best index funds,personal_finance,best,index funds
+emergency fund,personal_finance,plain,emergency fund
+what is emergency fund,personal_finance,what_is,emergency fund
+how to emergency fund,personal_finance,how_to,emergency fund
+why emergency fund,personal_finance,why,emergency fund
+emergency fund vs,personal_finance,vs,emergency fund
+best emergency fund,personal_finance,best,emergency fund
+student loans,personal_finance,plain,student loans
+what is student loans,personal_finance,what_is,student loans
+how to student loans,personal_finance,how_to,student loans
+why student loans,personal_finance,why,student loans
+student loans vs,personal_finance,vs,student loans
+best student loans,personal_finance,best,student loans
+tax refund,personal_finance,plain,tax refund
+what is tax refund,personal_finance,what_is,tax refund
+how to tax refund,personal_finance,how_to,tax refund
+why tax refund,personal_finance,why,tax refund
+tax refund vs,personal_finance,vs,tax refund
+best tax refund,personal_finance,best,tax refund
+iphone,consumer_tech,plain,iphone
+what is iphone,consumer_tech,what_is,iphone
+how to iphone,consumer_tech,how_to,iphone
+why iphone,consumer_tech,why,iphone
+iphone vs,consumer_tech,vs,iphone
+best iphone,consumer_tech,best,iphone
+wifi router,consumer_tech,plain,wifi router
+what is wifi router,consumer_tech,what_is,wifi router
+how to wifi router,consumer_tech,how_to,wifi router
+why wifi router,consumer_tech,why,wifi router
+wifi router vs,consumer_tech,vs,wifi router
+best wifi router,consumer_tech,best,wifi router
+laptop battery,consumer_tech,plain,laptop battery
+what is laptop battery,consumer_tech,what_is,laptop battery
+how to laptop battery,consumer_tech,how_to,laptop battery
+why laptop battery,consumer_tech,why,laptop battery
+laptop battery vs,consumer_tech,vs,laptop battery
+best laptop battery,consumer_tech,best,laptop battery
+password manager,consumer_tech,plain,password manager
+what is password manager,consumer_tech,what_is,password manager
+how to password manager,consumer_tech,how_to,password manager
+why password manager,consumer_tech,why,password manager
+password manager vs,consumer_tech,vs,password manager
+best password manager,consumer_tech,best,password manager
+smart tv,consumer_tech,plain,smart tv
+what is smart tv,consumer_tech,what_is,smart tv
+how to smart tv,consumer_tech,how_to,smart tv
+why smart tv,consumer_tech,why,smart tv
+smart tv vs,consumer_tech,vs,smart tv
+best smart tv,consumer_tech,best,smart tv
+cloud storage,consumer_tech,plain,cloud storage
+what is cloud storage,consumer_tech,what_is,cloud storage
+how to cloud storage,consumer_tech,how_to,cloud storage
+why cloud storage,consumer_tech,why,cloud storage
+cloud storage vs,consumer_tech,vs,cloud storage
+best cloud storage,consumer_tech,best,cloud storage
+black holes,science,plain,black holes
+what is black holes,science,what_is,black holes
+how to black holes,science,how_to,black holes
+why black holes,science,why,black holes
+black holes vs,science,vs,black holes
+best black holes,science,best,black holes
+photosynthesis,science,plain,photosynthesis
+what is photosynthesis,science,what_is,photosynthesis
+how to photosynthesis,science,how_to,photosynthesis
+why photosynthesis,science,why,photosynthesis
+photosynthesis vs,science,vs,photosynthesis
+best photosynthesis,science,best,photosynthesis
+earthquakes,science,plain,earthquakes
+what is earthquakes,science,what_is,earthquakes
+how to earthquakes,science,how_to,earthquakes
+why earthquakes,science,why,earthquakes
+earthquakes vs,science,vs,earthquakes
+best earthquakes,science,best,earthquakes
+DNA,science,plain,DNA
+what is DNA,science,what_is,DNA
+how to DNA,science,how_to,DNA
+why DNA,science,why,DNA
+DNA vs,science,vs,DNA
+best DNA,science,best,DNA
+ocean tides,science,plain,ocean tides
+what is ocean tides,science,what_is,ocean tides
+how to ocean tides,science,how_to,ocean tides
+why ocean tides,science,why,ocean tides
+ocean tides vs,science,vs,ocean tides
+best ocean tides,science,best,ocean tides
+evolution,science,plain,evolution
+what is evolution,science,what_is,evolution
+how to evolution,science,how_to,evolution
+why evolution,science,why,evolution
+evolution vs,science,vs,evolution
+best evolution,science,best,evolution
+tenant rights,law_government,plain,tenant rights
+what is tenant rights,law_government,what_is,tenant rights
+how to tenant rights,law_government,how_to,tenant rights
+why tenant rights,law_government,why,tenant rights
+tenant rights vs,law_government,vs,tenant rights
+best tenant rights,law_government,best,tenant rights
+small claims court,law_government,plain,small claims court
+what is small claims court,law_government,what_is,small claims court
+how to small claims court,law_government,how_to,small claims court
+why small claims court,law_government,why,small claims court
+small claims court vs,law_government,vs,small claims court
+best small claims court,law_government,best,small claims court
+passport,law_government,plain,passport
+what is passport,law_government,what_is,passport
+how to passport,law_government,how_to,passport
+why passport,law_government,why,passport
+passport vs,law_government,vs,passport
+best passport,law_government,best,passport
+jury duty,law_government,plain,jury duty
+what is jury duty,law_government,what_is,jury duty
+how to jury duty,law_government,how_to,jury duty
+why jury duty,law_government,why,jury duty
+jury duty vs,law_government,vs,jury duty
+best jury duty,law_government,best,jury duty
+copyright,law_government,plain,copyright
+what is copyright,law_government,what_is,copyright
+how to copyright,law_government,how_to,copyright
+why copyright,law_government,why,copyright
+copyright vs,law_government,vs,copyright
+best copyright,law_government,best,copyright
+wills,law_government,plain,wills
+what is wills,law_government,what_is,wills
+how to wills,law_government,how_to,wills
+why wills,law_government,why,wills
+wills vs,law_government,vs,wills
+best wills,law_government,best,wills
+schengen visa,travel,plain,schengen visa
+what is schengen visa,travel,what_is,schengen visa
+how to schengen visa,travel,how_to,schengen visa
+why schengen visa,travel,why,schengen visa
+schengen visa vs,travel,vs,schengen visa
+best schengen visa,travel,best,schengen visa
+carry on luggage,travel,plain,carry on luggage
+what is carry on luggage,travel,what_is,carry on luggage
+how to carry on luggage,travel,how_to,carry on luggage
+why carry on luggage,travel,why,carry on luggage
+carry on luggage vs,travel,vs,carry on luggage
+best carry on luggage,travel,best,carry on luggage
+jet lag,travel,plain,jet lag
+what is jet lag,travel,what_is,jet lag
+how to jet lag,travel,how_to,jet lag
+why jet lag,travel,why,jet lag
+jet lag vs,travel,vs,jet lag
+best jet lag,travel,best,jet lag
+travel insurance,travel,plain,travel insurance
+what is travel insurance,travel,what_is,travel insurance
+how to travel insurance,travel,how_to,travel insurance
+why travel insurance,travel,why,travel insurance
+travel insurance vs,travel,vs,travel insurance
+best travel insurance,travel,best,travel insurance
+national parks,travel,plain,national parks
+what is national parks,travel,what_is,national parks
+how to national parks,travel,how_to,national parks
+why national parks,travel,why,national parks
+national parks vs,travel,vs,national parks
+best national parks,travel,best,national parks
+train travel europe,travel,plain,train travel europe
+what is train travel europe,travel,what_is,train travel europe
+how to train travel europe,travel,how_to,train travel europe
+why train travel europe,travel,why,train travel europe
+train travel europe vs,travel,vs,train travel europe
+best train travel europe,travel,best,train travel europe
+sourdough,food_cooking,plain,sourdough
+what is sourdough,food_cooking,what_is,sourdough
+how to sourdough,food_cooking,how_to,sourdough
+why sourdough,food_cooking,why,sourdough
+sourdough vs,food_cooking,vs,sourdough
+best sourdough,food_cooking,best,sourdough
+cast iron,food_cooking,plain,cast iron
+what is cast iron,food_cooking,what_is,cast iron
+how to cast iron,food_cooking,how_to,cast iron
+why cast iron,food_cooking,why,cast iron
+cast iron vs,food_cooking,vs,cast iron
+best cast iron,food_cooking,best,cast iron
+meal prep,food_cooking,plain,meal prep
+what is meal prep,food_cooking,what_is,meal prep
+how to meal prep,food_cooking,how_to,meal prep
+why meal prep,food_cooking,why,meal prep
+meal prep vs,food_cooking,vs,meal prep
+best meal prep,food_cooking,best,meal prep
+air fryer,food_cooking,plain,air fryer
+what is air fryer,food_cooking,what_is,air fryer
+how to air fryer,food_cooking,how_to,air fryer
+why air fryer,food_cooking,why,air fryer
+air fryer vs,food_cooking,vs,air fryer
+best air fryer,food_cooking,best,air fryer
+rice,food_cooking,plain,rice
+what is rice,food_cooking,what_is,rice
+how to rice,food_cooking,how_to,rice
+why rice,food_cooking,why,rice
+rice vs,food_cooking,vs,rice
+best rice,food_cooking,best,rice
+coffee brewing,food_cooking,plain,coffee brewing
+what is coffee brewing,food_cooking,what_is,coffee brewing
+how to coffee brewing,food_cooking,how_to,coffee brewing
+why coffee brewing,food_cooking,why,coffee brewing
+coffee brewing vs,food_cooking,vs,coffee brewing
+best coffee brewing,food_cooking,best,coffee brewing
+roman empire,history_education,plain,roman empire
+what is roman empire,history_education,what_is,roman empire
+how to roman empire,history_education,how_to,roman empire
+why roman empire,history_education,why,roman empire
+roman empire vs,history_education,vs,roman empire
+best roman empire,history_education,best,roman empire
+world war 2,history_education,plain,world war 2
+what is world war 2,history_education,what_is,world war 2
+how to world war 2,history_education,how_to,world war 2
+why world war 2,history_education,why,world war 2
+world war 2 vs,history_education,vs,world war 2
+best world war 2,history_education,best,world war 2
+industrial revolution,history_education,plain,industrial revolution
+what is industrial revolution,history_education,what_is,industrial revolution
+how to industrial revolution,history_education,how_to,industrial revolution
+why industrial revolution,history_education,why,industrial revolution
+industrial revolution vs,history_education,vs,industrial revolution
+best industrial revolution,history_education,best,industrial revolution
+scholarships,history_education,plain,scholarships
+what is scholarships,history_education,what_is,scholarships
+how to scholarships,history_education,how_to,scholarships
+why scholarships,history_education,why,scholarships
+scholarships vs,history_education,vs,scholarships
+best scholarships,history_education,best,scholarships
+study techniques,history_education,plain,study techniques
+what is study techniques,history_education,what_is,study techniques
+how to study techniques,history_education,how_to,study techniques
+why study techniques,history_education,why,study techniques
+study techniques vs,history_education,vs,study techniques
+best study techniques,history_education,best,study techniques
+online degrees,history_education,plain,online degrees
+what is online degrees,history_education,what_is,online degrees
+how to online degrees,history_education,how_to,online degrees
+why online degrees,history_education,why,online degrees
+online degrees vs,history_education,vs,online degrees
+best online degrees,history_education,best,online degrees
+leaky faucet,home_diy,plain,leaky faucet
+what is leaky faucet,home_diy,what_is,leaky faucet
+how to leaky faucet,home_diy,how_to,leaky faucet
+why leaky faucet,home_diy,why,leaky faucet
+leaky faucet vs,home_diy,vs,leaky faucet
+best leaky faucet,home_diy,best,leaky faucet
+painting walls,home_diy,plain,painting walls
+what is painting walls,home_diy,what_is,painting walls
+how to painting walls,home_diy,how_to,painting walls
+why painting walls,home_diy,why,painting walls
+painting walls vs,home_diy,vs,painting walls
+best painting walls,home_diy,best,painting walls
+composting,home_diy,plain,composting
+what is composting,home_diy,what_is,composting
+how to composting,home_diy,how_to,composting
+why composting,home_diy,why,composting
+composting vs,home_diy,vs,composting
+best composting,home_diy,best,composting
+drywall repair,home_diy,plain,drywall repair
+what is drywall repair,home_diy,what_is,drywall repair
+how to drywall repair,home_diy,how_to,drywall repair
+why drywall repair,home_diy,why,drywall repair
+drywall repair vs,home_diy,vs,drywall repair
+best drywall repair,home_diy,best,drywall repair
+heat pump,home_diy,plain,heat pump
+what is heat pump,home_diy,what_is,heat pump
+how to heat pump,home_diy,how_to,heat pump
+why heat pump,home_diy,why,heat pump
+heat pump vs,home_diy,vs,heat pump
+best heat pump,home_diy,best,heat pump
+lawn care,home_diy,plain,lawn care
+what is lawn care,home_diy,what_is,lawn care
+how to lawn care,home_diy,how_to,lawn care
+why lawn care,home_diy,why,lawn care
+lawn care vs,home_diy,vs,lawn care
+best lawn care,home_diy,best,lawn care
+running shoes,consumer_products,plain,running shoes
+what is running shoes,consumer_products,what_is,running shoes
+how to running shoes,consumer_products,how_to,running shoes
+why running shoes,consumer_products,why,running shoes
+running shoes vs,consumer_products,vs,running shoes
+best running shoes,consumer_products,best,running shoes
+mattress,consumer_products,plain,mattress
+what is mattress,consumer_products,what_is,mattress
+how to mattress,consumer_products,how_to,mattress
+why mattress,consumer_products,why,mattress
+mattress vs,consumer_products,vs,mattress
+best mattress,consumer_products,best,mattress
+vacuum cleaner,consumer_products,plain,vacuum cleaner
+what is vacuum cleaner,consumer_products,what_is,vacuum cleaner
+how to vacuum cleaner,consumer_products,how_to,vacuum cleaner
+why vacuum cleaner,consumer_products,why,vacuum cleaner
+vacuum cleaner vs,consumer_products,vs,vacuum cleaner
+best vacuum cleaner,consumer_products,best,vacuum cleaner
+electric car,consumer_products,plain,electric car
+what is electric car,consumer_products,what_is,electric car
+how to electric car,consumer_products,how_to,electric car
+why electric car,consumer_products,why,electric car
+electric car vs,consumer_products,vs,electric car
+best electric car,consumer_products,best,electric car
+blender,consumer_products,plain,blender
+what is blender,consumer_products,what_is,blender
+how to blender,consumer_products,how_to,blender
+why blender,consumer_products,why,blender
+blender vs,consumer_products,vs,blender
+best blender,consumer_products,best,blender
+noise cancelling headphones,consumer_products,plain,noise cancelling headphones
+what is noise cancelling headphones,consumer_products,what_is,noise cancelling headphones
+how to noise cancelling headphones,consumer_products,how_to,noise cancelling headphones
+why noise cancelling headphones,consumer_products,why,noise cancelling headphones
+noise cancelling headphones vs,consumer_products,vs,noise cancelling headphones
+best noise cancelling headphones,consumer_products,best,noise cancelling headphones
